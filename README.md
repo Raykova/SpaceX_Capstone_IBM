@@ -1,6 +1,6 @@
 # SpaceX_Capstone_IBM 
 ### Project Background
-  The Virgin Galactic, Rocket Lab, Blue Origin, and SpaceX companies are aiming to make space travel more affordable. SpaceX is known to be the most successful. The company advertises Falcon 9 rocket launches with a cost of 62 million dollars, whereas other providers cost their service 165 million dollars. The difference is due to the reuseble first stage of SpaceX. Here, I am taking the role of a Data Scientist working to predict a better price than SpaceX. To achieve that, I used publicly provided information to train a machine learning model and predict if SpaceX will reuse the first stage.
+  The Virgin Galactic, Rocket Lab, Blue Origin, and SpaceX companies are aiming to make space travel more affordable. SpaceX is known to be the most successful. The company advertises Falcon 9 rocket launches with a cost of 62 million dollars, whereas other providers cost their service 165 million dollars. The difference is due to the reusable first stage of SpaceX. Here, I am taking the role of a Data Scientist working to predict a better price than SpaceX. To achieve that, I used publicly provided information to train a machine learning model and predict if SpaceX will reuse the first stage.
 
 ![image](https://user-images.githubusercontent.com/76114907/228127723-69e9971b-00be-432b-b572-e5b5d6eac551.png)
 
