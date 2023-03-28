@@ -28,6 +28,6 @@ To achieve the latter, I used Data Science methodologies starting with data coll
 ####  <a href="[https://www.ibm.com/legal/copytrade]"> © Copyrights IBM and Plagiarism ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)</a>
 #### © Copyright 2023 - [Aneliya Raykova, PhD](https://github.com/Raykova) <a href="[https://www.linkedin.com/in/aneliya-raykova-48363092/]"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<p align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/NBXF8N746H9V"]><img src="https://github.com/RaykovaRaykova/SpaceX_Capstone_IBM/IBM_Data_Science.png" alt="IBM Data Science" width="190px"/></a> <a href="https://www.coursera.org/account/accomplishments/certificate/VUJKCSVREKFZ"><img src="https://github.com/RaykovaRaykova/SpaceX_Capstone_IBM/Capstone_project_badge.png" alt="Data Science Capstone" width="190px" padding="20px" /></a> </p>
+<p align="center"><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/NBXF8N746H9V"]><img src="https://github.com/RaykovaRaykova/SpaceX_Capstone_IBM/IBM_Data_Science.png" alt="IBM Data Science" width="190px"/></a> <a href="https://www.coursera.org/account/accomplishments/certificate/VUJKCSVREKFZ"><img src="https://github.com/RaykovaRaykova/SpaceX_Capstone_IBM/Capstone_project_badge.png" alt="Data Science Capstone" width="190px"/></a> </p>
 
 
