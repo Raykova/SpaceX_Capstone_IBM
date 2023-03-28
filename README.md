@@ -1,4 +1,4 @@
-# SpaceX_Capstone_IBM
+# SpaceX_Capstone_IBM 
 ### Project Background
   The Virgin Galactic, Rocket Lab, Blue Origin, and SpaceX companies are aiming to make space travel more affordable. SpaceX is known to be the most successful. The company advertises Falcon 9 rocket launches with a cost of 62 million dollars, whereas other providers cost their service 165 million dollars. The difference is due to the reuseble first stage of SpaceX. Here, I am taking the role of a Data Scientist working to predict a better price than SpaceX. To achieve that, I used publicly provided information to train a machine learning model and predict if SpaceX will reuse the first stage.
 
@@ -28,6 +28,6 @@ To achieve the latter, I used Data Science methodologies starting with data coll
 ####  <a href="[https://www.ibm.com/legal/copytrade]"> © Copyrights IBM and Plagiarism ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)</a>
 #### © Copyright 2023 - [Aneliya Raykova, PhD](https://github.com/Raykova) <a href="[https://www.linkedin.com/in/aneliya-raykova-48363092/]"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<a href="[https://www.credly.com/users/aneliya-raykova/badges]"> ![image](https://user-images.githubusercontent.com/76114907/228175675-e635fa85-214e-442d-ab21-6740bbf0d3c3.png)
+#### <a href="[https://www.coursera.org/account/accomplishments/specialization/certificate/NBXF8N746H9V]"> ![image](https://user-images.githubusercontent.com/76114907/228183751-bccbae52-8507-484c-9500-9c681321e2d4.png) <a href="[https://www.coursera.org/account/accomplishments/certificate/VUJKCSVREKFZ]"> ![image](![image](![image](https://user-images.githubusercontent.com/76114907/228184924-911fb350-f8f3-4797-9a6c-811f7040764d.png)
 
 
