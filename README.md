@@ -30,3 +30,6 @@ To achieve the latter, I used Data Science methodologies starting with data coll
 
 
 <p align="center"><a href="[https://www.credly.com/badges/67def8ff-90a1-4706-bb9c-e070d9c9cac3/public_url]"><img src="https://github.com/Raykova/SpaceX_Capstone_IBM/databases-and-sql-for-data-science.png"></a>
+
+<p align="center"><a href="[https://www.credly.com/badges/67def8ff-90a1-4706-bb9c-e070d9c9cac3/public_url]"> ![image](https://github.com/Raykova/SpaceX_Capstone_IBM/databases-and-sql-for-data-science.png)
+
