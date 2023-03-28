@@ -27,3 +27,6 @@ To achieve the latter, I used Data Science methodologies starting with data coll
 #### © Copyright IBM Corporation
 ####  <a href="[https://www.ibm.com/legal/copytrade]"> © Copyrights IBM and Plagiarism ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white)</a>
 #### © Copyright 2023 - [Aneliya Raykova, PhD](https://github.com/Raykova) <a href="[https://www.linkedin.com/in/aneliya-raykova-48363092/]"> ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
+<p align="center"><a href="https://www.credly.com/badges/67def8ff-90a1-4706-bb9c-e070d9c9cac3/public_url">![image]("https://github.com/Raykova/SpaceX_Capstone_IBM/databases-and-sql-for-data-science.png")</a>
